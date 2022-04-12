@@ -3,7 +3,7 @@
     "version": "1.0",
     "name": "crypto",
 
-    "description": "Extensão que mostra preçõs de cryptomoedas",
+    "description": "Extensão que mostra preços de cryptomoedas",
     "icons":{
         "48": "./icons/icon.svg"
     },
