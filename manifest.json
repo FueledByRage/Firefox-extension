@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "crypto",
+
+    "description": "Extensão que mostra preçõs de cryptomoedas",
+    "icons":{
+        "48": "./icons/icon.svg"
+    },
+    "browser_action":{
+    "default_icon": "icons/icon.svg",
+    "default_title": "Crypto price",
+    "default_popup": "popup/index.html"
+    }
+}
